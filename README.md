@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andyosei12
 - 👀 I'm currently interested in Web Development. 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React and Data Structures & Algorithms
 - 💞️ I’m looking to collaborate on react open source projects
 - 📫 I can be reached on Twitter @_andyosei or shoot me a mail at andrewowusu21@yahoo.com
 
